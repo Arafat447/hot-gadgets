@@ -25,3 +25,14 @@
     text-decoration: none;
     color: orange;
 }
+.categories .card img {
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+.categories .card {
+    width: 200px;
+    margin: 15px;
+    border-radius: 20px 0px;
+}
+
