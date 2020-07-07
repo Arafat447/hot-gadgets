@@ -1,0 +1,27 @@
+.container {
+    margin-bottom:20px;
+}
+.buy-button {
+    background-color: #1a1818;
+    padding:8px 20px;
+    color :#fff;
+    border-radius: 10px;
+}
+.slide-item p {
+    font-size: 15px;
+    color: #777171;
+}
+
+.card-section img {
+    width:250px;
+    height: 250px;
+}
+.card {
+    border:none;
+    box-shadow: 5px 5px 10px lightgrey;
+    text-align: center;
+}
+.section-header a {
+    text-decoration: none;
+    color: orange;
+}
